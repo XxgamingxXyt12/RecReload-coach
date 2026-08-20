@@ -25,7 +25,7 @@ export const botConfig = {
       {
         name: "RecReload", // required by Discord API, not shown in the client
         state: "Playing RecReload",     // this is what people actually see
-        type: 1,               // Custom
+        type: 0,               // Custom
       },
     ],
   },
