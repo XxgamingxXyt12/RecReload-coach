@@ -24,7 +24,7 @@ export const botConfig = {
     activities: [
       {
         name: "RecReload", // required by Discord API, not shown in the client
-        state: "stalking",     // this is what people actually see
+        state: "Playing RecReload",     // this is what people actually see
         type: 0,               // Custom
       },
     ],
